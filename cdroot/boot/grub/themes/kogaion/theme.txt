@@ -66,9 +66,9 @@ desktop-color: "#2c5aa0"
 	selected_item_pixmap_style = "select_*.png"
 	item_height = 26
 	item_padding = 0
-	item_icon_space = 0
+	item_icon_space = 5
 	item_spacing = 12
-#	icon_height = 25
-#	icon_width = 25
+	icon_height = 26
+	icon_width = 26
 }
 
