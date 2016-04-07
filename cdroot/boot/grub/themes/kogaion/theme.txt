@@ -28,7 +28,7 @@ title-text: ""
 terminal-box: "terminal_box_*.png"
 terminal-font: "Unifont Regular 16"
 desktop-image: "background.png"
-desktop-color: "#2c5aa0"
+desktop-color: "#005fce"
 
 #help bar at the bottom
 + label {
